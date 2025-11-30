@@ -1,4 +1,4 @@
-ember-spectrum-color-picker
+ember-spectrum-color-picker (No longer maintained)
 ==============================================================================
 
 Simple Ember color picker component based on [spectrum.js](http://bgrins.github.io/spectrum/).
